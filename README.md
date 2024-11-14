@@ -32,8 +32,6 @@
 </div>
 
 ---
-
-## <div align="center">🚀 **Tecnologias Utilizadas**</div>
 <div align="center">
   
 ✨ **Tecnologias que utilizo em meus projetos:** ✨
