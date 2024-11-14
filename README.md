@@ -67,7 +67,7 @@
   />
 </picture>
 
- [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+ [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg]([https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/keroldias123/snk/output/github-contribution-grid-snake.svg))
 
 
 
