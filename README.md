@@ -3,9 +3,7 @@
 # 🌟 **Kerol Ladislau Clemente Dias** 🌟  
  *"Transformando ideias em realidade com tecnologia."*
 <!-- SVG de Madara -->
-<img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fire_Style.svg/1200px-Fire_Style.svg.png](https://tenor.com/pt-BR/view/寫輪眼-gif-3480943121856555330)](https://tenor.com/pt-BR/view/%E5%AF%AB%E8%BC%AA%E7%9C%BC-gif-3480943121856555330)" alt="Madara Uchiha" width="200" height="200"/>
-</div>
-
+<div class="tenor-gif-embed" data-postid="3480943121856555330" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/%E5%AF%AB%E8%BC%AA%E7%9C%BC-gif-3480943121856555330">寫輪眼 GIF</a>from <a href="https://tenor.com/search/%E5%AF%AB%E8%BC%AA%E7%9C%BC-gifs">寫輪眼 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 ## <div align="center">📋 **Sobre Mim**</div>
