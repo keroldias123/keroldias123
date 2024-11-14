@@ -57,4 +57,10 @@
   </tr>
 </table>
 
+| 📌 Projeto | 🔗 Repositório | 📁 Tecnologias |
+|------------|----------------|----------------|
+| **Dashboard** | [GitHub](https://github.com/keroldias123/dashboard) | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) |
+| **Sistema de Caixa** | [GitHub](https://github.com/keroldias123/sistema-caixa)
+
+
 
