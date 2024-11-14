@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌟 **Kerol Ladislau Clemente Dias** 🌟  
-**Lema:** *"Transformando ideias em realidade com tecnologia."*
+ *"Transformando ideias em realidade com tecnologia."*
 <!-- SVG de Madara -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fire_Style.svg/1200px-Fire_Style.svg.png" alt="Madara Uchiha" width="200" height="200"/>
 </div>
