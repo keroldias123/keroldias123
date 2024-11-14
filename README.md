@@ -62,5 +62,10 @@
 | **Dashboard** | [GitHub](https://github.com/keroldias123/dashboard) | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) |
 | **Sistema de Caixa** | [GitHub](https://github.com/keroldias123/sistema-caixa)
 
+| 🗂️ Projeto | 🖥️ Tecnologias | 📅 Atualização | 🔖 Status |
+|------------|----------------|----------------|-----------|
+| **CRUD de Clientes** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | `23/09/2024` | ![Concluído](https://img.shields.io/badge/Status-Concluído-green) |
+| **API de Consultas BI** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | `25/09/2024` | ![Em Progresso](https://img.shields.io/badge/Status-Em%20Progresso-yellow) |
+| **Sistema Admin/Funcionário** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | `01/11/2024` | ![Planejado](https://img.shields.io/badge/Status-Planejado-blue) |
 
 
