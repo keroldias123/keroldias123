@@ -49,7 +49,15 @@
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=radical)  
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical)   
 
-![Madara comendo Inarizushi](https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif)
+---
+
+## <div align="center">🍣 **Madara comendo Inarizushi**</div>
+
+<div align="center">
+   ![Madara comendo Inarizushi](https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif)
+</div>
+
+---
 
 
 [gif](https://github.com/keroldias123/blob/manual-run-output/only-svg/github-contribution-grid-snake.gif) or [svg](https://github.com/keroldias123/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg) 
