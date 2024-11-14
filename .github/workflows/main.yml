@@ -1,0 +1,64 @@
+name: Dinossauro T-Rex Come Contribuições 🦖
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  dinosaur:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Passo 1: Checkout do código
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    # Passo 2: Exibir a animação do T-Rex e contar contribuições
+    - name: Dinossauro Come Contribuições
+      run: |
+        # Exibir a animação do T-Rex
+        echo "🦖 Dinossauro T-Rex Come Contribuições 🦖"
+        echo "O T-Rex está comendo os commits..."
+
+        # T-Rex em ASCII Art
+        echo "                           __
+                          /    `.
+                         /       |
+                        /        |
+                       /    .-.  |
+                      /   (   )  |
+                     /     `-'   |
+                    /  .-------.|
+                   /  /         |
+                  (  (          |
+                   \  \         |
+                    `._\_______/"
+
+        # Contar o número de commits na branch main
+        commit_count=$(git rev-list --count main)
+        echo "Número de commits: $commit_count"
+
+        # Atualizar o arquivo CONTRIBUTIONS.md
+        echo "T-Rex comeu $commit_count commits!" > CONTRIBUTIONS.md
+        git add CONTRIBUTIONS.md
+        git commit -m "Atualizando contribuições com o T-Rex"
+        git push
+
+    # Passo 3: Criar uma animação simples do dinossauro
+    - name: Exibir animação do T-Rex
+      run: |
+        echo "🦖💥 Aqui está o T-Rex no nosso workflow!"
+
+        # Simulação de uma animação simples no terminal
+        sleep 1
+        echo "⏳ Esperando... o T-Rex está comendo as contribuições."
+        sleep 1
+        echo "🍴 T-Rex comendo commits!"
+        sleep 1
+        echo "🎉 Contribuições comidas!"
+
+    # Passo 4: Mostrar as contribuições
+    - name: Mostrar Contribuições
+      run: |
+        cat CONTRIBUTIONS.md
