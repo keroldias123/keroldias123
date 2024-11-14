@@ -2,8 +2,7 @@
 
 # 🌟 **Kerol Ladislau Clemente Dias** 🌟  
  *"Transformando ideias em realidade com tecnologia."*
-<!-- SVG de Madara -->
-<div class="tenor-gif-embed" data-postid="3480943121856555330" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/%E5%AF%AB%E8%BC%AA%E7%9C%BC-gif-3480943121856555330">寫輪眼 GIF</a>from <a href="https://tenor.com/search/%E5%AF%AB%E8%BC%AA%E7%9C%BC-gifs">寫輪眼 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Madara comendo Inarizushi](https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif)
 ---
 
 ## <div align="center">📋 **Sobre Mim**</div>
