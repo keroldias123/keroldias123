@@ -52,7 +52,7 @@
 ![Madara comendo Inarizushi](https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif)
 
 
-[gif](https://github.com/keroldias123/blod/manual-run-output/only-svg/github-contribution-grid-snake.gif) or [svg](https://github.com/keroldias123/manual-run-output/only-svg/github-contribution-grid-snake.svg) 
+[gif](https://github.com/keroldias123/blob/manual-run-output/only-svg/github-contribution-grid-snake.gif) or [svg](https://github.com/keroldias123/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg) 
 
 
 
