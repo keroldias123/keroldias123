@@ -49,7 +49,8 @@
 ---
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=radical)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical)
-)
+![snake gif](https://github.com/keroldias123/keroldias123/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
