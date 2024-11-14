@@ -48,7 +48,7 @@
 
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=radical)  
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical)   
-  ![Madara comendo Inarizushi](https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif)
+  ![Madara comendo Inarizushi]([https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif](https://gifdb.com/gif/madara-eating-inarizushi-edn4754off800blr.html?embed=true))
 
 
 
@@ -67,7 +67,6 @@
   />
 </picture>
 
- [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg]([https://github.com/Platane/s(https://raw.githubusercontent.com/keroldias123/snk/output/github-contribution-grid-snake.svg))
 
 
 
