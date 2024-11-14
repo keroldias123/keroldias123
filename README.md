@@ -51,10 +51,8 @@
 
 ![Madara comendo Inarizushi](https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif)
 
-Pull a github user's contribution graph.
-Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
 
-Generate a [gif](https://github.com/keroldias123/snk/raw/manual-run-output/github-contribution-grid-snake.gif) or [svg](https://github.com/keroldias123/snk/raw/manual-run-output/github-contribution-grid-snake.svg) image.
+Generate a [gif](https://github.com/keroldias123/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/keroldias123/snk/raw/output/github-contribution-grid-snake.svg) image.
 
 
 
