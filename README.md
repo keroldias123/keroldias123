@@ -47,11 +47,15 @@
 
 
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=radical)  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical)  
-   ![snake gif](https://github.com/keroldias123/keroldias123/blob/output/github-contribution-grid-snake.svg)  
-  
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical)   
 
 ![Madara comendo Inarizushi](https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif)
+
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
 
 
