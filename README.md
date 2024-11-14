@@ -39,10 +39,24 @@
 </div>
 
 ---
-<div align="center">
-Frontend
-</div>
-<div align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> </div>
+<table align="center">
+  <tr>
+    <!-- SVG do Madara no lado esquerdo -->
+    <td align="center" valign="middle">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fire_Style.svg/1200px-Fire_Style.svg.png" alt="Madara Uchiha" width="80" height="80"/>
+    </td>
+    <!-- Tecnologias de Frontend -->
+    <td align="center" valign="middle">
+      <div>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+      </div>
+    </td>
+  </tr>
+</table>
 <div align="center">
 Backend
   </div>
