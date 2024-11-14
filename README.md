@@ -51,8 +51,20 @@
    <img src="https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif" alt="Madara comendo Inarizushi"/>
 
 
-[gif](https://github.com/keroldias123/blob/manual-run-output/only-svg/github-contribution-grid-snake.gif) or [svg](https://github.com/keroldias123/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg) 
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 
