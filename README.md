@@ -47,7 +47,8 @@
 </div>
 
 ---
-    
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?keroldias123=keroldias&show_icons=true&theme=radical)
+ 
    
 
 
