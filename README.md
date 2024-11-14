@@ -37,11 +37,7 @@
 </div>
 
 ---
-<table align="center">
-  <tr>
-    <!-- Tecnologias de Frontend -->
-    <td align="center" valign="middle">
-      <div>
+     <div>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -52,20 +48,7 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </div>
-    </td>
-    
-  </tr>
-</table>
+   
 
-| 📌 Projeto | 🔗 Repositório | 📁 Tecnologias |
-|------------|----------------|----------------|
-| **Dashboard** | [GitHub](https://github.com/keroldias123/dashboard) | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) |
-| **Sistema de Caixa** | [GitHub](https://github.com/keroldias123/sistema-caixa)
-
-| 🗂️ Projeto | 🖥️ Tecnologias | 📅 Atualização | 🔖 Status |
-|------------|----------------|----------------|-----------|
-| **CRUD de Clientes** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | `23/09/2024` | ![Concluído](https://img.shields.io/badge/Status-Concluído-green) |
-| **API de Consultas BI** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | `25/09/2024` | ![Em Progresso](https://img.shields.io/badge/Status-Em%20Progresso-yellow) |
-| **Sistema Admin/Funcionário** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | `01/11/2024` | ![Planejado](https://img.shields.io/badge/Status-Planejado-blue) |
 
 
