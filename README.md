@@ -41,10 +41,6 @@
 ---
 <table align="center">
   <tr>
-    <!-- SVG do Madara no lado esquerdo -->
-    <td align="center" valign="middle">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fire_Style.svg/1200px-Fire_Style.svg.png" alt="Madara Uchiha" width="80" height="80"/>
-    </td>
     <!-- Tecnologias de Frontend -->
     <td align="center" valign="middle">
       <div>
@@ -53,15 +49,16 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> 
       </div>
+    </td>
+     <!-- banco de dados -->
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
   </tr>
 </table>
-<div align="center">
-Backend
-  </div>
-<div align="center"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> </div>
-<div align="center">
-Banco de dados
-  </div>
-<div align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </div>
+
+
