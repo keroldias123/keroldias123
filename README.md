@@ -1,17 +1,10 @@
-o! Aqui está o conteúdo formatado para você colocar diretamente no seu README.md. Basta copiar e colar:
-
-markdown
-Copiar código
 <div align="center">
-
 # 🌟 **Kerol Ladislau Clemente Dias** 🌟  
 **Lema:** *"Transformando ideias em realidade com tecnologia."*
-
 </div>
 
 ## <div align="center">📋 **Sobre Mim**</div>
 <div align="center">
-
 ✨ *"Sou Kerol Ladislau Clemente Dias, um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras e eficientes. Com um foco constante em aprender e evoluir, meu objetivo é sempre transformar ideias em soluções concretas que façam a diferença."* ✨
 
 **Conecte-se comigo:**
@@ -51,7 +44,7 @@ Frontend
 Backend
   </div>
 <div align="center"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> </div>
- <div align="center">
-<img src="https://your-image-url.com/animated-database-title.gif" alt="Banco de Dados"/>
-</div>
+<div align="center">
+Banco de dados
+  </div>
 <div align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </div>
