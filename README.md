@@ -47,7 +47,15 @@
 </div>
 
 ---
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?keroldias123=keroldias&show_icons=true&theme=radical)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=radical)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keroldias123&theme=radical)
+![Profile Visits](https://komarev.com/ghpvc/?username=keroldias123)
+![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=keroldias123&repo=nome-do-repo&theme=radical)
+
+
+
+
  
    
 
