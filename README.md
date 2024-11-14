@@ -49,7 +49,8 @@
 ---
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=radical)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical)
-![Most Stars](https://github-readme-stats.vercel.app/api/pin/?username=keroldias123&repo=nome-do-repo&theme=radical)
+![Open Source Contributions](https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&hide=contribs&theme=radical)
+
 
 
 
