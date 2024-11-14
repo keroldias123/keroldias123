@@ -44,11 +44,17 @@
        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </div>
 </div>
- <img src="https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif" alt="Madara comendo Inarizushi"/>
+---
 
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=radical)  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical)   
-  ![Madara comendo Inarizushi](https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif)
+## <div align="center">🌱 **Minhas Contribuições no GitHub**</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=radical" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical" alt="Top Langs" />
+   <img src="https://media.gifdb.com/madara-eating-inarizushi-edn4754off800blr.gif" alt="Madara comendo Inarizushi" />
+</div>
+
+---
 
 
 
