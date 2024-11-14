@@ -43,7 +43,6 @@
        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </div>
 </div>
----
 
 ## <div align="center">🌱 **Minhas Contribuições no GitHub**</div>
 
