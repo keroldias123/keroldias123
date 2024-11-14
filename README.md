@@ -1,7 +1,11 @@
 <div align="center">
+
 # 🌟 **Kerol Ladislau Clemente Dias** 🌟  
 **Lema:** *"Transformando ideias em realidade com tecnologia."*
+
 </div>
+
+---
 
 ## <div align="center">📋 **Sobre Mim**</div>
 <div align="center">
