@@ -1,25 +1,50 @@
+<!-- CSS para animação de escrita -->
+<style>
+  .animated-text {
+    font-family: monospace; /* Fonte de largura fixa para efeito de escrita */
+    white-space: nowrap; /* Impede a quebra de linha no texto */
+    overflow: hidden; /* Oculta o texto fora do container */
+    border-right: 3px solid #4A90E2; /* Cursor piscante */
+    width: 0; /* Largura inicial zero para animação */
+    animation: typing 4s steps(50, end), blink-caret 0.75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: #4A90E2; }
+  }
+</style>
 <div align="center">
 
 # 🌟 **Kerol Ladislau Clemente Dias** 🌟  
- *"Transformando ideias em realidade com tecnologia."*
+ <p class="animated-text" style="font-weight: bold; font-size: 1.5rem; color: #4A90E2; margin-top: 20px;">
+      "Transformando ideias em realidade com tecnologia."
+    </p>
 
 ---
 
 ## <div align="center">📋 **Sobre Mim**</div>
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 20px;">
-  <!-- GIF à esquerda -->
-     <div>
-    <p style="font-style: italic; font-size: 1.2rem;">
+  <!-- Descrição justificada à esquerda -->
+  <div style="text-align: justify; display: flex; justify-content: center;">
+    <p style="font-style: italic; font-size: 1.2rem; max-width: 600px;">
       ✨ "Sou Kerol Ladislau Clemente Dias, um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras e eficientes. Com um foco constante em aprender e evoluir, meu objetivo é sempre transformar ideias em soluções concretas que façam a diferença." ✨
     </p>
   </div>
-  <!-- Descrição à direita -->
-<div style="text-align: center;">
+
+  <!-- GIF à direita, centralizado -->
+  <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/9e521344-3029-4554-8356-21ec4b4bafa3" alt="Madara comendo Inarizushi" width="200" height="200" />
   </div>
 </div>
----
-<div align="center">
+
+
+##<div align="center">
 **Conecte-se comigo:**
     </div>
   <a href="https://github.com/keroldias123" target="_blank">
