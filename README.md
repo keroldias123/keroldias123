@@ -10,8 +10,8 @@
 ✨ *"Sou Kerol Ladislau Clemente Dias, um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras e eficientes. Com um foco constante em aprender e evoluir, meu objetivo é sempre transformar ideias em soluções concretas que façam a diferença."* ✨
 
    <img src="https://github.com/user-attachments/assets/9e521344-3029-4554-8356-21ec4b4bafa3" alt="Madara comendo Inarizushi" width="200" height="200" />
-**Conecte-se comigo:**
 <div>
+**Conecte-se comigo:**
   <a href="https://github.com/keroldias123" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
