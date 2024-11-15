@@ -6,7 +6,7 @@
     </p>
 
 ---
-<div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <!-- Descrição justificada à esquerda -->
   <div style="text-align: justify; display: flex; justify-content: center;">
     <p style="font-style: italic; font-size: 1.2rem; max-width: 600px;">
