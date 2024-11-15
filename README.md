@@ -12,7 +12,7 @@
     <p style="font-style: italic; font-size: 1.2rem; max-width: 600px;">
       ✨ "Sou Kerol Ladislau Clemente Dias, um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras e eficientes. Com um foco constante em aprender e evoluir, meu objetivo é sempre transformar ideias em soluções concretas que façam a diferença." ✨
     </p>
-  ##<div align="center">
+ <div align="center">
 **Conecte-se comigo:**
     </div>
   <a href="https://github.com/keroldias123" target="_blank">
@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/seuusuario" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
+   <img src="https://komarev.com/ghpvc/?username=keroldias123" alt="Profile Visits" />
   </div>
 
   <!-- GIF à direita, centralizado -->
@@ -59,7 +59,7 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
    <img src="https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical" alt="Top Langs" />
-   <img src="https://komarev.com/ghpvc/?username=keroldias123" alt="Profile Visits" />
+
  
 
 </div>
