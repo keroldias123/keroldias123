@@ -1,24 +1,3 @@
-<!-- CSS para animação de escrita -->
-<style>
-  .animated-text {
-    font-family: monospace; /* Fonte de largura fixa para efeito de escrita */
-    white-space: nowrap; /* Impede a quebra de linha no texto */
-    overflow: hidden; /* Oculta o texto fora do container */
-    border-right: 3px solid #4A90E2; /* Cursor piscante */
-    width: 0; /* Largura inicial zero para animação */
-    animation: typing 4s steps(50, end), blink-caret 0.75s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: #4A90E2; }
-  }
-</style>
 <div align="center">
 
 # 🌟 **Kerol Ladislau Clemente Dias** 🌟  
