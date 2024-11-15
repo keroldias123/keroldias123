@@ -6,11 +6,9 @@
     </p>
 
 ---
-
-## <div align="center">📋 **Sobre Mim**</div>
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 20px;">
   <!-- Descrição justificada à esquerda -->
-  <div style="text-align: justify; display: flex; justify-content: center;">
+  <div style="text-align: justify; display: flex; justify-content: flex-start;">
     <p style="font-style: italic; font-size: 1.2rem; max-width: 600px;">
       ✨ "Sou Kerol Ladislau Clemente Dias, um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras e eficientes. Com um foco constante em aprender e evoluir, meu objetivo é sempre transformar ideias em soluções concretas que façam a diferença." ✨
     </p>
@@ -18,9 +16,10 @@
 
   <!-- GIF à direita, centralizado -->
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/9e521344-3029-4554-8356-21ec4b4bafa3" alt="Madara comendo Inarizushi" width="200" height="200" />
+    <img src="https://github.com/keroldias123/seu-repositorio/assets/madara-eating-inarizushi.gif" alt="Madara comendo Inarizushi" width="200" height="200" />
   </div>
 </div>
+
 
 
 ##<div align="center">
