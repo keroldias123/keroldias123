@@ -9,6 +9,7 @@
 <div align="center">
 ✨ *"Sou Kerol Ladislau Clemente Dias, um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras e eficientes. Com um foco constante em aprender e evoluir, meu objetivo é sempre transformar ideias em soluções concretas que façam a diferença."* ✨
 
+   <img src="https://github.com/user-attachments/assets/9e521344-3029-4554-8356-21ec4b4bafa3" alt="Madara comendo Inarizushi" width="200" height="200" />
 **Conecte-se comigo:**
 <div>
   <a href="https://github.com/keroldias123" target="_blank">
@@ -47,8 +48,8 @@
 ## <div align="center">🌱 **Minhas Contribuições no GitHub**</div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical" alt="Top Langs" />
    <img src="https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=radical" alt="Top Langs" />
    <img src="https://komarev.com/ghpvc/?username=keroldias123" alt="Profile Visits" />
  
 
