@@ -12,19 +12,7 @@
     <p style="font-style: italic; font-size: 1.2rem; max-width: 600px;">
       ✨ "Sou Kerol Ladislau Clemente Dias, um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras e eficientes. Com um foco constante em aprender e evoluir, meu objetivo é sempre transformar ideias em soluções concretas que façam a diferença." ✨
     </p>
-    <p class="animated-text" style="font-weight: bold; font-size: 1.5rem; color: #4A90E2; margin-top: 20px;">
-      "Transformando ideias em realidade com tecnologia."
-    </p>
-  </div>
-
-  <!-- GIF à direita, centralizado -->
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/9e521344-3029-4554-8356-21ec4b4bafa3" alt="Madara comendo Inarizushi" width="200" height="200" />
-  </div>
-</div>
-
-
-##<div align="center">
+  ##<div align="center">
 **Conecte-se comigo:**
     </div>
   <a href="https://github.com/keroldias123" target="_blank">
@@ -39,10 +27,16 @@
   <a href="https://www.instagram.com/seuusuario" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+
+  </div>
+
+  <!-- GIF à direita, centralizado -->
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/9e521344-3029-4554-8356-21ec4b4bafa3" alt="Madara comendo Inarizushi" width="200" height="200" />
+  </div>
 </div>
 
-</div>
-</div>
+
 
 <div align="center">
   
