@@ -75,7 +75,7 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/keroldias123/keroldias123/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/keroldias123/keroldias123/blob/output/docker/github-contribution-grid-snake.gif"
   />
   <img
     alt="github contribution grid snake animation"
