@@ -6,35 +6,40 @@
     </p>
 
 ---
-<div style="display: flex;  gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <!-- Descrição justificada à esquerda -->
-  <div style="text-align: justify; display: flex; justify-content: center;">
+  <div style="flex: 1; text-align: justify;">
     <p style="font-style: italic; font-size: 1.2rem; max-width: 600px;">
       ✨ "Sou Kerol Ladislau Clemente Dias, um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras e eficientes. Com um foco constante em aprender e evoluir, meu objetivo é sempre transformar ideias em soluções concretas que façam a diferença." ✨
     </p>
- <div align="center">
-**Conecte-se comigo:**
+    <div align="center" style="margin-top: 10px;">
+      <strong>Conecte-se comigo:</strong>
     </div>
-  <a href="https://github.com/keroldias123" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.facebook.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://twitter.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.instagram.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-   <img src="https://komarev.com/ghpvc/?username=keroldias123" alt="Profile Visits" />
+    <div style="display: flex; gap: 10px; margin-top: 10px;">
+      <a href="https://github.com/keroldias123" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+      <a href="https://www.facebook.com/seuusuario" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+      </a>
+      <a href="https://twitter.com/seuusuario" target="_blank">
+        <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
+      </a>
+      <a href="https://www.instagram.com/seuusuario" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+    </div>
+    <div style="margin-top: 10px;">
+      <img src="https://komarev.com/ghpvc/?username=keroldias123" alt="Profile Visits" />
+    </div>
   </div>
 
   <!-- GIF à direita, centralizado -->
-  <div style="text-align: center;">
+  <div style="flex: 1; text-align: center;">
     <img src="https://github.com/user-attachments/assets/9e521344-3029-4554-8356-21ec4b4bafa3" alt="Madara comendo Inarizushi" width="200" height="200" />
   </div>
 </div>
+
 
 
 
