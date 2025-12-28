@@ -65,16 +65,10 @@
 <div align="center">
   <h2>📈 Estatísticas do GitHub</h2>
   
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs"/>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" height="180" />
+  </div>
 </div>
 
 <br/>
