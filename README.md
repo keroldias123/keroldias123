@@ -56,7 +56,7 @@
   <h2>🛠️ Tecnologias & Ferramentas</h2>
   
   <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,csharp,mysql,postgres,docker,git&perline=6&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,cs,mysql,postgres,docker,git&perline=6&theme=dark" alt="My Skills" />
   </p>
 </div>
 
@@ -68,10 +68,10 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=keroldias123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroldias123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs"/>
       </td>
     </tr>
   </table>
