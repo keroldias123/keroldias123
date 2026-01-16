@@ -3,13 +3,7 @@
 <div align="center">
 
 <pre>
-│
-│  👨‍💻  KEROL
-│      LADISLAU
-│      CLEMENTE
-│      DIAS
-│
-└─▶ full stack engineer
+░▒▓█  👨‍💻  KEROL  LADISLAU  CLEMENTE  DIAS  █▓▒░
 </pre>
 
 </div>
