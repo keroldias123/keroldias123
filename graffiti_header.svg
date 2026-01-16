@@ -1,73 +1,56 @@
-<svg width="850" height="400" viewBox="0 0 850 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&amp;family=Rock+Salt&amp;display=swap');
+<svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo transparente -->
+  <rect width="900" height="600" fill="none" />
 
-      .main-tag { font-family: 'Rock Salt', cursive; font-weight: bold; }
-      .handle-tag { font-family: 'Permanent Marker', cursive; cursor: pointer; transition: all 0.3s ease; }
-      .handle-tag:hover { transform: scale(1.05); }
+  <!-- ASCII art topo -->
+  <text x="50%" y="80" text-anchor="middle" font-family="Courier New, monospace" font-size="30" fill="#00ff6a" stroke="#000" stroke-width="1">
+    █▀▀▄ █▀▀ █▀▀▄ █▀▀ █░░
+  </text>
+  <text x="50%" y="120" text-anchor="middle" font-family="Courier New, monospace" font-size="30" fill="#00ff6a" stroke="#000" stroke-width="1">
+    █░░█ █▀▀ █░░█ █▀▀ █░░
+  </text>
+  <text x="50%" y="160" text-anchor="middle" font-family="Courier New, monospace" font-size="30" fill="#00ff6a" stroke="#000" stroke-width="1">
+    ▀▀▀░ ▀▀▀ ▀▀▀░ ▀▀▀ ▀▀▀
+  </text>
 
-      /* Animação sutil de flutuar */
-      .float { animation: floating 3s ease-in-out infinite; }
-      @keyframes floating { 0% { transform: translate(0, 0px); } 50% { transform: translate(0, 5px); } 100% { transform: translate(0, 0px); } }
-    </style>
+  <!-- Caixa com seu nome -->
+  <rect x="100" y="200" width="700" height="50" fill="none" stroke="#ff3d00" stroke-width="3" rx="10"/>
+  <text x="50%" y="235" text-anchor="middle" font-family="Courier New, monospace" font-size="20" fill="#ff3d00">
+    👨‍💻  KEROL  LADISLAU  CLEMENTE  DIAS
+  </text>
 
-    <filter id="glow-gh" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="glow-fb" x="-50%" y="-50%" width="200%" height="200%">
-       <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#1877F2" />
-    </filter>
-    <filter id="glow-ig" x="-50%" y="-50%" width="200%" height="200%">
-       <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#E4405F" />
-    </filter>
-    <filter id="glow-wa" x="-50%" y="-50%" width="200%" height="200%">
-       <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#25D366" />
-    </filter>
-    <filter id="glow-main">
-      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#FFD700" />
-    </filter>
-  </defs>
+  <!-- Stack / skills -->
+  <text x="50%" y="280" text-anchor="middle" font-family="Courier New, monospace" font-size="18" fill="#00e5ff">
+    ░▒▓█  backend • saas • apis • payments  █▓▒░
+  </text>
 
-  <g opacity="0.4">
-    <path d="M100,300 Q150,350 200,320 T300,340" stroke="#555" stroke-width="2" fill="none"/>
-    <circle cx="700" cy="100" r="20" fill="none" stroke="#E4405F" stroke-width="2" stroke-dasharray="5,5"/>
-    <path d="M50,50 L80,80 M50,80 L80,50" stroke="#1877F2" stroke-width="3"/> </g>
-
-  <g transform="translate(425, 200)" text-anchor="middle">
-    <text x="0" y="0" class="main-tag" font-size="60" fill="#bd00ff" stroke="#FFD700" stroke-width="2" filter="url(#glow-main)">KEROL DIAS</text>
-    <path d="M-180,20 C-100,40 100,40 180,20 L170,10 M180,20 L170,30" stroke="#bd00ff" stroke-width="4" fill="none"/>
-  </g>
-
-  <a xlink:href="https://github.com/keroldias123" target="_blank">
-    <g transform="translate(50, 80) rotate(-10)" class="handle-tag float">
-      <text x="0" y="0" font-size="28" stroke="#0d1117" stroke-width="8" opacity="0.8">GH: keroldias123</text>
-      <text x="0" y="0" font-size="28" fill="#ffffff" filter="url(#glow-gh)">GH: keroldias123</text>
-      <path d="M-10,-10 L0,-25 L10,-10 Z" fill="#ccc" /> </g>
-  </a>
-
-  <a xlink:href="https://www.facebook.com/keroldias" target="_blank">
-    <g transform="translate(600, 70) rotate(5)" class="handle-tag float" style="animation-delay: 0.5s">
-       <text x="0" y="0" font-size="26" stroke="#000" stroke-width="8" opacity="0.6">FB: @keroldias</text>
-       <text x="0" y="0" font-size="26" fill="#1877F2" filter="url(#glow-fb)">FB: @keroldias</text>
-       <path d="M180,0 L200,-10 L200,10 Z" fill="#1877F2"/> </g>
-  </a>
-
-  <a xlink:href="https://www.instagram.com/keroldias20" target="_blank">
-    <g transform="translate(80, 330) rotate(8)" class="handle-tag float" style="animation-delay: 1s">
-      <text x="0" y="0" font-size="26" stroke="#330000" stroke-width="8" opacity="0.6">IG: keroldias20</text>
-      <text x="0" y="0" font-size="26" fill="#E4405F" filter="url(#glow-ig)">IG: keroldias20</text>
-       <circle cx="20" cy="25" r="5" fill="#E4405F"/>
-      <circle cx="40" cy="35" r="3" fill="#E4405F"/>
-    </g>
-  </a>
-
-  <a xlink:href="https://wa.me/244935105896" target="_blank">
-    <g transform="translate(580, 320) rotate(-6)" class="handle-tag float" style="animation-delay: 1.5s">
-      <text x="0" y="0" font-size="24" stroke="#001100" stroke-width="8" opacity="0.6">WA: +244 935...896</text>
-      <text x="0" y="0" font-size="24" fill="#25D366" filter="url(#glow-wa)">WA: +244 935...896</text>
-      <circle cx="-15" cy="-15" r="8" fill="none" stroke="#25D366" stroke-width="2"/> </g>
-  </a>
-
+  <!-- Código estilo ASCII -->
+  <text x="100" y="320" font-family="Courier New, monospace" font-size="14" fill="#ffffff">
+    │
+  </text>
+  <text x="100" y="340" font-family="Courier New, monospace" font-size="14" fill="#ffffff">
+    │  const engineer = &#123;
+  </text>
+  <text x="120" y="360" font-family="Courier New, monospace" font-size="14" fill="#ffffff">
+    name: "Kerol Dias",
+  </text>
+  <text x="120" y="380" font-family="Courier New, monospace" font-size="14" fill="#ffffff">
+    craft: "software engineering",
+  </text>
+  <text x="120" y="400" font-family="Courier New, monospace" font-size="14" fill="#ffffff">
+    focus: ["backend", "saas", "api"],
+  </text>
+  <text x="120" y="420" font-family="Courier New, monospace" font-size="14" fill="#ffffff">
+    principle: "scale before hype"
+  </text>
+  <text x="100" y="440" font-family="Courier New, monospace" font-size="14" fill="#ffffff">
+    &#125;
+  </text>
+  <text x="100" y="460" font-family="Courier New, monospace" font-size="14" fill="#ffffff">
+    │
+  </text>
+  <text x="100" y="480" font-family="Courier New, monospace" font-size="14" fill="#ffffff">
+    └─▶ building systems that last
+  </text>
 </svg>
+
