@@ -1,14 +1,11 @@
 <div align="center">
 
-<h1>🌟 Kerol Ladislau Clemente Dias 🌟</h1>
-
-<p>
-  <strong>Node.js • Next.js • React.js</strong>
-</p>
+<h1>👨‍💻 Kerol Ladislau Clemente Dias</h1>
+<p><strong>Full Stack Developer • Backend • SaaS • APIs</strong></p>
 
 <p>
   <a href="https://github.com/keroldias123">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/keroldias">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -21,31 +18,39 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=keroldias123&label=Profile+Views&color=0e75b6&style=flat"/>
+
 </div>
 
-<br/>
+---
 
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="60%" valign="top">
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
 
-### 👋 Sobre Mim
+## 👋 Sobre Mim
 
-Olá! Sou **Kerol Ladislau Clemente Dias**, desenvolvedor focado em criar soluções tecnológicas modernas, escaláveis e bem arquitetadas.  
-Tenho paixão por backend, APIs, sistemas SaaS e produtos que resolvem problemas reais.
+Sou **Kerol Dias**, desenvolvedor apaixonado por construir **sistemas robustos, escaláveis e bem arquitetados**.  
+Trabalho principalmente com **Backend, APIs, SaaS Multi-Tenant e Plataformas de Pagamento**.
 
-💡 *“A tecnologia é a ferramenta, mas a criatividade é o combustível.”*
+🧠 Mentalidade de produto  
+⚙️ Arquitetura limpa (MVC, RBAC, Multi-Tenant)  
+🚀 Foco em performance, segurança e escalabilidade  
 
-<img src="https://komarev.com/ghpvc/?username=keroldias123&label=Perfil+Views&color=blue&style=flat"/>
+> *Tecnologia não é só código. É impacto.*
 
 </td>
 
-<td width="40%" align="center">
-  <img src="https://github.com/user-attachments/assets/9e521344-3029-4554-8356-21ec4b4bafa3"
-       width="90%"
-       style="border-radius:12px;" />
+<td width="45%" align="center">
+
+<img 
+  src="https://github.com/user-attachments/assets/9e521344-3029-4554-8356-21ec4b4bafa3" 
+  width="90%" 
+  style="border-radius:14px; box-shadow: 0 10px 30px rgba(0,0,0,.35);" 
+/>
+
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
