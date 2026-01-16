@@ -1,0 +1,92 @@
+<svg width="800" height="350" viewBox="0 0 800 350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&amp;display=swap');
+
+      .graffiti-text { font-family: 'Permanent Marker', cursive; }
+      .ui-text { font-family: sans-serif; font-weight: bold; }
+      .code-text { font-family: 'Fira Code', monospace; }
+
+      /* Animação de "Spray" */
+      .spray-in {
+        stroke-dasharray: 1000;
+        stroke-dashoffset: 1000;
+        animation: spray 3s ease-in-out forwards;
+      }
+      @keyframes spray {
+        to { stroke-dashoffset: 0; }
+      }
+      
+      /* Animação de Piscar (Notificação) */
+      .blink { animation: blinker 1.5s linear infinite; color: #ff3860; }
+      @keyframes blinker { 50% { opacity: 0; } }
+
+      /* Cores Neon */
+      .neon-blue { fill: #0ff; stroke: #0ff; filter: url(#blue-glow); }
+      .neon-pink { fill: #f0f; stroke: #f0f; filter: url(#pink-glow); }
+      .neon-purple { fill: #bd00ff; stroke: #bd00ff; filter: url(#purple-glow); }
+    </style>
+
+    <filter id="blue-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur5"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur10"/>
+      <feMerge>
+        <feMergeNode in="blur5"/>
+        <feMergeNode in="blur10"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="pink-glow" x="-50%" y="-50%" width="200%" height="200%">
+			<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blurOne" />
+			<feMerge>
+				<feMergeNode in="blurOne" />
+				<feMergeNode in="SourceGraphic" />
+			</feMerge>
+		</filter>
+    
+    <pattern id="wallPattern" patternUnits="userSpaceOnUse" width="100" height="100">
+      <rect width="100" height="100" fill="#1a1a1a"/>
+      <path d="M0 25h100M0 75h100M50 0v100" stroke="#2a2a2a" stroke-width="2"/>
+    </pattern>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#wallPattern)" />
+  <rect width="100%" height="100%" fill="rgba(0,0,0,0.6)" /> <rect x="20" y="20" width="760" height="40" rx="20" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)"/>
+  <circle cx="50" cy="40" r="8" fill="#ff5f56" /> <text x="80" y="45" class="ui-text" fill="#aaa" font-size="14">github.com/kerol-dias/profile</text>
+  
+  <g transform="translate(600, 25)">
+    <rect width="160" height="30" rx="15" fill="#FFDD57"/>
+    <text x="25" y="20" class="ui-text" fill="#3a3a3a" font-size="14">⚡ Trending Dev</text>
+    <circle cx="150" cy="10" r="6" fill="#ff3860" class="blink"/> </g>
+
+  <g transform="translate(50, 150)">
+    <path d="M100 80 Q 110 150 105 180 M 300 80 Q 310 130 305 160 M 550 80 Q 560 170 555 200" stroke="#f0f" stroke-width="3" fill="none" opacity="0.6" filter="url(#pink-glow)"/>
+
+    <text x="0" y="0" class="graffiti-text spray-in" font-size="80" stroke="#0ff" stroke-width="2" fill="none">KEROL DIAS</text>
+    <text x="0" y="0" class="graffiti-text" font-size="80" fill="#0ff" opacity="0.3" filter="url(#blue-glow)">KEROL DIAS</text>
+    <text x="3" y="3" class="graffiti-text spray-in" font-size="80" stroke="#f0f" stroke-width="2" fill="none">KEROL DIAS</text>
+    
+    <g transform="translate(480, -60)">
+       <circle cx="30" cy="30" r="25" fill="#bd00ff" filter="url(#purple-glow)"/>
+       <path d="M15 30 L 25 40 L 45 20" stroke="white" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+     </g>
+  </g>
+
+  <g transform="translate(60, 240)">
+    <text x="0" y="0" class="graffiti-text neon-purple" font-size="24" filter="url(#purple-glow)">#BACKEND</text>
+    <text x="140" y="0" class="graffiti-text neon-blue" font-size="24" filter="url(#blue-glow)">#SAAS</text>
+    <text x="240" y="0" class="graffiti-text neon-pink" font-size="24" filter="url(#pink-glow)">#APIs</text>
+    <text x="330" y="0" class="graffiti-text neon-purple" font-size="24" filter="url(#purple-glow)">#PAYMENTS</text>
+  </g>
+
+  <g transform="translate(520, 180)">
+    <rect width="250" height="120" rx="5" fill="rgba(0,0,0,0.8)" stroke="#30363d" />
+    <rect width="250" height="20" rx="5" fill="#161b22" />
+    <text x="10" y="14" class="ui-text" fill="#8b949e" font-size="10">~ status.js</text>
+    <text x="15" y="50" class="code-text" fill="#79c0ff" font-size="12">const status = {</text>
+    <text x="25" y="70" class="code-text" fill="#c9d1d9" font-size="12">coffee: <tspan fill="#ff7b72">true</tspan>,</text>
+    <text x="25" y="90" class="code-text" fill="#c9d1d9" font-size="12">shipping: <tspan fill="#a5d6ff">"features"</tspan></text>
+    <text x="15" y="110" class="code-text" fill="#79c0ff" font-size="12">}</text>
+  </g>
+</svg>
