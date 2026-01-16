@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./fundo_profile.png" width="100%" alt="Kerol Dias Graffiti Header">
+<img src="./graffiti_header.svg" width="100%" alt="Kerol Dias Graffiti Header">
 </div>
 
 <p><strong>Full Stack Developer • Backend • SaaS • APIs</strong></p>
