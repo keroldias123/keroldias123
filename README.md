@@ -26,7 +26,6 @@
 
 </div>
 
----
 
 <table align="center" width="100%">
 <tr>
@@ -57,37 +56,16 @@ Trabalho principalmente com **Backend, APIs, SaaS Multi-Tenant e Plataformas de 
 </tr>
 </table>
 
----
 
 <div align="center">
 
 ## 🛠️ Tecnologias & Ferramentas
-
-<!-- drift line -->
-<pre style="background:transparent; border:none; color:#6ee7b7; font-size:14px;">
-┌────────────────────────────────────────────────────────┐
-│  while (building) { code++; impact++; drift(); }       │
-└────────────────────────────────────────────────────────┘
-</pre>
-
 <img 
   src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,cs,mysql,postgres,docker,git&perline=6&theme=dark"
 />
-
-<!-- code stick -->
-<pre style="background:transparent; border:none; color:#60a5fa; font-size:13px;">
-│
-│  const stack = "modern";
-│  const focus = ["backend", "api", "saas"];
-│  const mindset = "scalable";
-│
-└─▶ shipping real products
-</pre>
-
 </div>
 
 
----
 
 <div align="center">
 
@@ -111,11 +89,6 @@ Trabalho principalmente com **Backend, APIs, SaaS Multi-Tenant e Plataformas de 
   </picture>
 </div>
 
-<hr/>
-
-<div align="center">
-  <p>Feito com ❤️ por Kerol Ladislau Clemente Dias</p>
-</div>
 
 
 
