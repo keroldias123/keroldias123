@@ -59,9 +59,29 @@ Trabalho principalmente com **Backend, APIs, SaaS Multi-Tenant e Plataformas de 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,cs,mysql,postgres,docker,git&perline=6&theme=dark"/>
+<!-- drift line -->
+<pre style="background:transparent; border:none; color:#6ee7b7; font-size:14px;">
+┌────────────────────────────────────────────────────────┐
+│  while (building) { code++; impact++; drift(); }       │
+└────────────────────────────────────────────────────────┘
+</pre>
+
+<img 
+  src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,cs,mysql,postgres,docker,git&perline=6&theme=dark"
+/>
+
+<!-- code stick -->
+<pre style="background:transparent; border:none; color:#60a5fa; font-size:13px;">
+│
+│  const stack = "modern";
+│  const focus = ["backend", "api", "saas"];
+│  const mindset = "scalable";
+│
+└─▶ shipping real products
+</pre>
 
 </div>
+
 
 ---
 
