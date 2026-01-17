@@ -1,11 +1,8 @@
 <div align="center">
 
-<div align="center">
 
-<img src="./graffiti_header.svg" width="100%" alt="Kerol Dias Graffiti Header">
-</div>
 
-<p><strong>Full Stack Developer • Backend • SaaS • APIs</strong></p>
+<p><strong>Full Stack Developer — Backend, SaaS e APIs sem gambiarra</strong></p>
 
 <p>
   <a href="https://github.com/keroldias123">
