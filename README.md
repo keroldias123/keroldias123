@@ -66,17 +66,6 @@ Trabalho principalmente com **Backend, APIs, SaaS Multi-Tenant e Plataformas de 
 
 <div>
 
-## 📈 Estatísticas do GitHub
-
-<a href="https://github.com/keroldias123/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?keroldias123=anuraghazra" />
-</a>
-<a href="https://github.com/keroldias123/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?keroldias123=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<br/>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/keroldias123/keroldias123/blob/output/docker/github-contribution-grid-snake-dark.svg">
