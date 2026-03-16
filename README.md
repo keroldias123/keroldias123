@@ -1,7 +1,4 @@
 
-
-# Sobre Mim
-
 <h1 align="center">👋 Sobre Mim</h1>
 
 <p align="left">
