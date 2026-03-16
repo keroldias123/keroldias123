@@ -6,11 +6,28 @@ Sou <strong>Kerol Dias</strong>, desenvolvedor apaixonado por construir
 <strong>sistemas robustos, escaláveis e bem arquitetados</strong>.
 </p>
 
-<table>
+<table align="center">
 <tr>
-<td align="center">🧠<br><strong>Mentalidade de Produto</strong></td>
-<td align="center">⚙️<br><strong>Arquitetura Limpa</strong></td>
-<td align="center">🚀<br><strong>Performance & Escala</strong></td>
+<td align="center" width="220" height="120">
+  <div>
+    <span style="font-size:32px;">🧠</span><br><br>
+    <strong style="font-size:16px;">Mentalidade de Produto</strong>
+  </div>
+</td>
+
+<td align="center" width="220" height="120">
+  <div>
+    <span style="font-size:32px;">⚙️</span><br><br>
+    <strong style="font-size:16px;">Arquitetura Limpa</strong>
+  </div>
+</td>
+
+<td align="center" width="220" height="120">
+  <div>
+    <span style="font-size:32px;">🚀</span><br><br>
+    <strong style="font-size:16px;">Performance & Escala</strong>
+  </div>
+</td>
 </tr>
 </table>
 
