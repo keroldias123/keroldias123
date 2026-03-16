@@ -1,58 +1,65 @@
-<div align="center">
 
 
+# Sobre Mim
 
-<p><strong>Full Stack Developer — Backend, SaaS e APIs sem gambiarra</strong></p>
+<div class="max-w-4xl mx-auto p-8">
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+    
+    <div class="order-1 lg:order-1 text-left space-y-6">
+      <div class="space-y-4">
+        <h1 class="text-3xl lg:text-4xl font-black">
+          👋 Sobre Mim
+        </h1>
+        
+        <div class="prose prose-lg max-w-none">
+          <p class="text-xl text-gray-700 leading-relaxed">
+            Sou <strong>Kerol Dias</strong>, 
+            desenvolvedor apaixonado por construir <strong>sistemas robustos, escaláveis e bem arquitetados</strong>.
+          </p>
+          
+          <p class="text-lg text-gray-700">
+            Trabalho principalmente com <strong>Backend, APIs, SaaS Multi-Tenant e Plataformas de Pagamento</strong>.
+          </p>
+        </div>
 
-<p>
-  <a href="https://github.com/keroldias123">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/keroldias">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/keroldias20">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/244935105896">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+        <div class="grid grid-cols-3 gap-4 pt-6">
+          <div class="bg-blue-50 p-4 rounded-2xl text-center border border-blue-100">
+            <div class="text-2xl mb-2">🧠</div>
+            <p class="text-xs font-semibold text-blue-800 uppercase tracking-wide">Mentalidade de produto</p>
+          </div>
+          
+          <div class="bg-green-50 p-4 rounded-2xl text-center border border-green-100">
+            <div class="text-2xl mb-2">⚙️</div>
+            <p class="text-xs font-semibold text-green-800 uppercase tracking-wide">Arquitetura limpa</p>
+          </div>
+          
+          <div class="bg-purple-50 p-4 rounded-2xl text-center border border-purple-100">
+            <div class="text-2xl mb-2">🚀</div>
+            <p class="text-xs font-semibold text-purple-800 uppercase tracking-wide">Performance & Escala</p>
+          </div>
+        </div>
 
-<img src="https://komarev.com/ghpvc/?username=keroldias123&label=Profile+Views&color=0e75b6&style=flat"/>
+        <blockquote class="border-l-4 border-blue-500 pl-6 italic text-lg font-semibold text-gray-700 bg-blue-50 p-4 rounded-r-lg">
+          <em>
+            <span class="text-2xl mr-2">✦</span>
+            Tecnologia não é só código. É <strong>impacto</strong>.
+          </em>
+        </blockquote>
+      </div>
+    </div>
 
+    <div class="order-2 lg:order-2 flex justify-center">
+      <div class="relative group">
+        <img 
+          src="https://github.com/user-attachments/assets/9e521344-3029-4554-8356-21ec4b4bafa3" 
+          width="400"
+          style="border-radius: 24px; box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1);"
+          alt="Kerol Dias - Desenvolvedor"
+        />
+      </div>
+    </div>
+  </div>
 </div>
-
-
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
-
-## 👋 Sobre Mim
-
-Sou **Kerol Dias**, desenvolvedor apaixonado por construir **sistemas robustos, escaláveis e bem arquitetados**.  
-Trabalho principalmente com **Backend, APIs, SaaS Multi-Tenant e Plataformas de Pagamento**.
-
-🧠 Mentalidade de produto  
-⚙️ Arquitetura limpa (MVC, RBAC, Multi-Tenant)  
-🚀 Foco em performance, segurança e escalabilidade  
-
-> *Tecnologia não é só código. É impacto.*
-
-</td>
-
-<td width="45%" align="center">
-
-<img 
-  src="https://github.com/user-attachments/assets/9e521344-3029-4554-8356-21ec4b4bafa3" 
-  width="90%" 
-  style="border-radius:14px; box-shadow: 0 10px 30px rgba(0,0,0,.35);" 
-/>
-
-</td>
-</tr>
-</table>
-
 
 <div align="center">
 
